@@ -2,7 +2,7 @@
 
 > A compilation of high quality free resources to learn, explore and develop web frontend <br/>
 > Compiled by Ujjwal
-> ([Twitter](https://twitter.com/ujjwalscript))
+> (Follow me on [Twitter](https://twitter.com/ujjwalscript))
 
 Frontend web development includes building the client side code as well as the visuals of the app. In general, a frontend app has 3 parts:
 
@@ -10,7 +10,7 @@ Frontend web development includes building the client side code as well as the v
 2. CSS: The styling of the UI
 3. Code (Javascript): The handler of user actions, rendering of the UI and fetching data from apis
 
-### Roadmap to a complete modern frontend developer
+### Roadmap to becoming a complete modern frontend developer
 Here's what you should learn, and in which order:
 <br>
 1. HTML
@@ -48,10 +48,12 @@ Here's what you should learn, and in which order:
 
 ### General resources
 
-Here are a few general resources that 
+Here are a few general resources to help you learn different aspects of web development
 
 1. [W3 Schools](https://www.w3schools.com/)
-2. how are
+2. [FreeCodeCamp](https://freecodecamp.org)
+3. [Frontend Mentor](http://frontendmentor.io/)
+4. [Dev Challenges](https://devchallenges.io/)
 
 ### Chrome Extensions
 
