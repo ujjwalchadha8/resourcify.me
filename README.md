@@ -8,4 +8,4 @@ Feel free to fork this project and create PRs for new resources, road maps and f
 
 ## Resources Index
 
-1. [Web frontend resources](/frontend-web/)
+[START LEARNING WEB DEVELOPMENT](/frontend-web/)
