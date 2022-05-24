@@ -9,4 +9,6 @@
 - Free and open source!
 
 [Contribute on GitHub](https://github.com/ujjwalchadha8/resourcify.me/)
-[Get Started](#Resourcifyme)
+[Get Started](#about)
+
+![color](#333333)

@@ -64,7 +64,7 @@ Here's what you should learn, and in which order:
    6. [Semantic UI 📃](https://semantic-ui.com/)
    7. [UI Kit 📃](https://getuikit.com/)
    8. [Materialize CSS 📃](https://materializecss.com/)
-5. Javascript 
+5. <b>Javascript</b> 
    - Video Tutorials (Watch any one):
      1. [Complete javascript course by freecodecamp 📹](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=177s)
      2. [JavaScript tutorial for beginners by Programming with Mosh 📹](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
@@ -80,7 +80,8 @@ Here's what you should learn, and in which order:
    - Practice
      1. [Javascript Online ⚒️](https://javascript.onl/)
      2. [CodePen ⚒️](https://codepen.io/)
-6.  Frontend framework: Learn any Frontend framework. Some popular ones are
+6.  <b>Frontend framework</b> 
+    <br/>Learn any Frontend framework. Some popular ones are
     1.  [ReactJS](https://reactjs.org/)
     2. [Angular](https://angular.io/)
     3. [VueJS](https://vuejs.org/)

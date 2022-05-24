@@ -1,4 +1,4 @@
-# Resourcify.me
+# About
 
 This project aims to compile high quality tech resources and road maps from around the internet and make them available under roof in an easy to consume manner. The resources will help you to learn and develop great tech
 
@@ -6,6 +6,8 @@ This project aims to compile high quality tech resources and road maps from arou
 
 Feel free to fork this project and create PRs for new resources, road maps and fixing existing bugs.
 
-## Resources Index
+<!-- EXCLUDE-FROM-WEB -->
+Hello
+<!-- END-EXCLUDE -->
 
-[START LEARNING WEB DEVELOPMENT](/frontend-web/)
+## [START LEARNING WEB DEVELOPMENT](/frontend-web/)
