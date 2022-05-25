@@ -22,3 +22,26 @@
 
 ➤ No gatekeeping whatsoever!
 
+## Now, the process:
+
+Contributing to open source basically involves a few simple steps and there are fancy names for each one of them:
+
+1.  You make a copy of the project. This is necessary as it ensures that if the changes you make mess things up, it doesn't affect the app itself. This *'making a copy'* to play around is called **Forking** in the open source world
+
+![Forking ](assets/forkingExample.jpeg)
+> Look at the second tab from the right to fork.
+
+2. Then download your copy onto your machine to start playing around. This is called **Cloning**.
+
+![Cloning](assets/cloningCommand.jpeg)
+
+> Use the command in the image
+
+3. Post cloning, we've to start playing around with what we've downloaded and once we've made any meaningful change,we can start to push those changes back to the Github repo. But before that we'd make what are called **Branches** for the following benefits:
+
+   - Branches are essentially parallel channels for making changes so that they can be compared with the original files.
+   - It helps in keeping things private and isolates the impact of change
+   - In the following image, we're making a branch called 'sumit-fixing-css':
+
+![](assets/branching.jpeg)
+
