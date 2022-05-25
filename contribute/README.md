@@ -35,7 +35,7 @@ Contributing to open source basically involves a few simple steps and there are 
 
 ![Cloning](assets/cloningCommand.jpeg)
 
-> Use the command in the image
+> Use the command in the image to clone a repository
 
 3. Post cloning, we've to start playing around with what we've downloaded and once we've made any meaningful change,we can start to push those changes back to the Github repo. But before that we'd make what are called **Branches** for the following benefits:
 
@@ -45,3 +45,4 @@ Contributing to open source basically involves a few simple steps and there are 
 
 ![](assets/branching.jpeg)
 
+> Use the command in the image to creat a new branch
