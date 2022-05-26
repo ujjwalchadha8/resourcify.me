@@ -1,4 +1,4 @@
-# Frontend web development
+# The ultimate guide to being a frontend developer
 
 > A compilation of high quality free resources to learn, explore and develop web frontend <br/>
 > Compiled by Ujjwal
@@ -10,7 +10,7 @@ Frontend web development includes building the client side code as well as the v
 2. CSS: The styling of the UI
 3. Code (Javascript): The handler of user actions, rendering of the UI and fetching data from apis
 
-### Roadmap & resources to becoming a complete modern frontend developer
+### Road map and resources for becoming a complete modern frontend developer
 Here's what you should learn, and in which order:
 <br>
 1. <b>The basics of internet.</b>
