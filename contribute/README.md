@@ -50,3 +50,8 @@ Contributing to open source basically involves a few simple steps and there are 
 **4.** And now the meaty stuff! Once done with what can be termed 'pre-requisites', we can now move on to the juicy stuff - *making actual contributions*. So, go ahead and open the downloaded (cloned) folder and make whatever changes you're assigned to or had ideas about. Then commit (create a checkpoint to restore if things go bad) and we're ready to push.
 ![](assets/commit.jpeg)
 > Use the command in the image to commit (make a restore point)
+
+**5.** Now let's push the changes! We push the changes we've made to Github so that the project's maintainers can see, review and if everything's okay, merge those changes into the project's original codebase.
+
+![](assets/push.jpeg)
+> Use the push command as shown in the image to push changes to Github
