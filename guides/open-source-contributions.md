@@ -33,11 +33,7 @@ Contributing to open source basically involves a few simple steps and there are 
 ![Forking ](./assets/open-source-contributions/forkingExample.jpeg)
 > Look at the second tab from the right to fork.
 
-<<<<<<< HEAD:contribute/README.md
-**2.** Then download your copy onto your machine to start playing around. This is called **Cloning**.
-=======
 1. Then download your copy onto your machine to start playing around. This is called **Cloning**.
->>>>>>> upstream/main:guides/open-source-contributions.md
 
 ![Cloning](./assets/open-source-contributions/cloningCommand.jpeg)
 

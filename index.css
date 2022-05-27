@@ -26,3 +26,11 @@ section.cover h1 span {
 .sidebar {
     margin-top: 60px;
 }
+
+.hide-up {
+    transform:translateY(-100%); transition: all 0.3s ease-in-out;
+}
+
+.show-down {
+    transform:translateY(0); transition: all 0.3s ease-in-out;
+}
