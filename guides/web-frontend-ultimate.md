@@ -117,21 +117,28 @@ Before you start building actual stuff, it's important to learn about the basics
 
 Here are a few general resources to help you learn different aspects of web development
 
-1. [FreeCodeCamp](https://freecodecamp.org)
-2. [W3 Schools](https://www.w3schools.com/)
-3. [Frontend Mentor](http://frontendmentor.io/)
-4. [Dev Challenges](https://devchallenges.io/)
-5. [Dev docs](https://devdocs.io/)
-
-### Chrome Extensions
-
-A few chrome extension that'll help you as a developer:
-
-1. [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm): Amazing dev tools
-1. [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en): Official dev tools for react developers
-1. [DailyDev](https://api.daily.dev/get?r=rahxul): Get the latest news about the Dev community in your chrome homepage
-1. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): Get to know the frontend stack of any website
-1. [Whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Get to know the font of any website
+- Learn
+  1. [FreeCodeCamp](https://freecodecamp.org): Free, amazing tutorials for almost everything you want to learn
+  2. [W3 Schools](https://www.w3schools.com/): Learn HTML, CSS, Javascript and more
+  3. [Frontend Mentor](http://frontendmentor.io/): Learn frontend
+- Practice
+  1. [Dev Challenges](https://devchallenges.io/): Amazing challenges to practice JS
+  2. [Javascript Katas](https://jskatas.org/)
+  3. [Leetcode](https://)
+- Documentation
+  1. [Dev docs](https://devdocs.io/): All your documentation in one place
+- Books
+  1. [Move things with CSS](https://jh3y.gumroad.com/l/move-things-with-css)
+  2. [Typescript in 50 lessons](https://typescript-book.com/)
+  3. [The frontend developer handbook](https://booksoncode.com/articles/front-end-developer-handbook-2019)
+- Chrome Extensions
+  1. [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm): Amazing dev tools
+  2. [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en): Official dev tools for react developers
+  3. [DailyDev](https://api.daily.dev/get?r=rahxul): Get the latest news about the Dev community in your chrome homepage
+  4. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): Get to know the frontend stack of any website
+  5. [Whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Get to know the font of any website
+  6. [WAVE](https://wave.webaim.org/extension): Evaluate web content for accessibility issues directly within your browser
+  7. [axe](https://www.deque.com/axe/browser-extensions): Test your web apps to help identify & resolve common accessibility issues
 
 ### Some sources used for compilation
 
