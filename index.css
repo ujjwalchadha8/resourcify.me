@@ -10,13 +10,17 @@ section.cover h1 span {
     right: auto;
     position: fixed;
     top: 0;
-    background-color: #33333388;
+    background-color: #333333AA;
     width: 100%;
     margin-top: 0px;
     padding-right: 25px;
     padding-top: 25px;
     padding-bottom: 20px;
     box-shadow: 0, 10px, 0, 0;
+}
+
+.app-nav li ul {
+    background-color: #333333;
 }
 
 .markdown-section {
