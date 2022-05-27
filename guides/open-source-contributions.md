@@ -1,5 +1,7 @@
 # How to get started with open source:
 
+> Authors: Sumit ([Twitter](https://twitter.com/sumitsaurabh927))
+
 ## First things first:
 
 *Before you finalize a project, make sure that* :
@@ -16,7 +18,7 @@
 
 ➤ One of the best things about open source community is that it is incredibly welcoming.
 
-➤ And so there are ample opportunites for non-code contributions too.
+➤ And so there are ample opportunities for non-code contributions too.
 
 ➤ Also, you don't need to be an expert programmer. Open source is equally welcoming for experts and newbies.
 
@@ -28,12 +30,16 @@ Contributing to open source basically involves a few simple steps and there are 
 
 **1.**  You make a copy of the project. This is necessary as it ensures that if the changes you make mess things up, it doesn't affect the app itself. This *'making a copy'* to play around is called **Forking** in the open source world
 
-![Forking ](assets/forkingExample.jpeg)
+![Forking ](./assets/open-source-contributions/forkingExample.jpeg)
 > Look at the second tab from the right to fork.
 
+<<<<<<< HEAD:contribute/README.md
 **2.** Then download your copy onto your machine to start playing around. This is called **Cloning**.
+=======
+1. Then download your copy onto your machine to start playing around. This is called **Cloning**.
+>>>>>>> upstream/main:guides/open-source-contributions.md
 
-![Cloning](assets/cloningCommand.jpeg)
+![Cloning](./assets/open-source-contributions/cloningCommand.jpeg)
 
 > Use the command in the image to clone a repository
 
@@ -43,7 +49,7 @@ Contributing to open source basically involves a few simple steps and there are 
    - It helps in keeping things private and isolates the impact of change
    - In the following image, we're making a branch called 'sumit-fixing-css':
 
-![](assets/branching.jpeg)
+![](./assets/open-source-contributions/branching.jpeg)
 
 > Use the command in the image to create a new branch
 
