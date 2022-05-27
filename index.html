@@ -62,21 +62,22 @@
       ]
     }
     
-    let lastScroll = window.scrollY;
+    let lastScroll = Math.min(window.scrollY, 0);
     window.addEventListener("scroll", (ev) => {
       const navBarElement = document.getElementsByClassName("app-nav")[0];
-      if (window.scrollY > lastScroll) {
+      const currentScroll = Math.max(window.scrollY, 0);
+      if (currentScroll > lastScroll) {
         navBarElement.classList.remove("show-down");
         if (!navBarElement.classList.contains("hide-up")) {
           navBarElement.classList.add("hide-up");
         }
-        lastScroll = window.scrollY;
+        lastScroll = currentScroll;
       } else {
         navBarElement.classList.remove("hide-up");
         if (!navBarElement.classList.contains("show-down")) {
           navBarElement.classList.add("show-down");
         }
-        lastScroll = window.scrollY;
+        lastScroll = currentScroll;
       }
     });
 

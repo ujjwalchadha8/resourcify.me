@@ -19,6 +19,10 @@ section.cover h1 span {
     box-shadow: 0, 10px, 0, 0;
 }
 
+.markdown-section {
+    padding-top: 4em;
+}
+
 .content {
     margin-top: 1em;
 }
