@@ -2,6 +2,12 @@
 
 This project aims to compile high quality tech resources and road maps from around the internet and make them available under roof in an easy to consume manner. The resources will help you to learn and develop great tech
 
+
+## Open in Gitpod
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ujjwalchadha8/resourcify.me)
+
+
 ## Guides
 
 These guides will help you learn, explore and build technology faster and better with great resources and road maps
