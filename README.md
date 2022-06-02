@@ -6,12 +6,12 @@ This project aims to compile high quality tech resources and road maps from arou
 
 These guides will help you learn, explore and build technology faster and better with great resources and road maps
 
-- [The ultimate guide to becoming a frontend developer](/guides/web-frontend-ultimate)
-- [Contributing to open source](/guides/open-source-contributions)
+- [The ultimate guide to becoming a frontend developer](/guides/web-frontend-ultimate.md)
+- [Contributing to open source](/guides/open-source-contributions.md)
 
 ## How to contribute to this project
 
-- You can simply fork [this project](https://github.com/ujjwalchadha8/resourcify.me) and start contributing. We'll be happy to review and merge your PRs. Read [this guide](/guides/open-source-contributions) on how to get started with open source
+- You can simply fork [this project](https://github.com/ujjwalchadha8/resourcify.me) and start contributing. We'll be happy to review and merge your PRs. Read [this guide](/guides/open-source-contributions.md) on how to get started with open source
   
 - <b>Create new guides.</b>
   You create a new guide in the guides [guides]([/guides/](https://github.com/ujjwalchadha8/resourcify.me/tree/main/guides)) directory. See existing guides as sample and use markdown to create your own guide. We'll be happy to review your PR and add your guide to our website.  
