@@ -14,6 +14,7 @@ These guides will help you learn, explore and build technology faster and better
 
 - [The ultimate guide to becoming a frontend developer](/guides/web-frontend-ultimate.md)
 - [Contributing to open source](/guides/open-source-contributions.md)
+- [Getting started with React Native](/guides/react-native-beginner-guide.md)
 
 ## How to contribute to this project
 
