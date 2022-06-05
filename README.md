@@ -7,6 +7,10 @@ This project aims to compile high quality tech resources and road maps from arou
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ujjwalchadha8/resourcify.me)
 
+## Code Editor [Beta Version]
+
+Write HTML, CSS & JavaScript using the in-built
+<a href="main.html">Code Editor</a>
 
 ## Guides
 
