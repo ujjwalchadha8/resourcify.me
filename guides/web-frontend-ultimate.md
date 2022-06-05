@@ -105,13 +105,19 @@ Before you start building actual stuff, it's important to learn about the basics
         1. [Angular Tutorial for beginners by Programming with Mosh 📹](https://www.youtube.com/watch?v=k5E2AVpwsko)
         2. [Angular Crash Course by Traversy Media 📹](https://www.youtube.com/watch?v=3dHNOWTI7H8)
       - Documentation
-        1. [Official Angular documentation 📹](https://angular.io/docs)
+        1. [Official Angular documentation 📃](https://angular.io/docs)
     - [VueJS](https://vuejs.org/)
       - Video tutorials:
         1. [Vue.js course for beginners by freecodecamp 📹](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
         2. [Vue JS Crash Course by Traversy Media 📹](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
       - Documentation:
         1. [Vue JS official docs 📃](https://vuejs.org/guide/introduction.html)
+    - [Svelte](https://svelte.dev/)
+      - Video tutorials:
+        1. [Svelte JS Crash Course by Traversy Media 📹](https://www.youtube.com/watch?v=3TVy6GdtNuQ)
+        2. [Svelte Tutorials for beginners by The Net Ninja 📹](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+      - Documentation:
+        1. [Svelte JS official docs 📃](https://svelte.dev/docs)
 
 ### General resources
 
