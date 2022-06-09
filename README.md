@@ -13,6 +13,7 @@ This project aims to compile high quality tech resources and road maps from arou
 These guides will help you learn, explore and build technology faster and better with great resources and road maps
 
 - [The ultimate guide to becoming a frontend developer](/guides/web-frontend-ultimate.md)
+- [React Native guide for beginners](/guides/react-native-beginner-guide.md)
 - [Contributing to open source](/guides/open-source-contributions.md)
 
 ## How to contribute to this project
