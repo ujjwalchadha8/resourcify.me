@@ -26,6 +26,7 @@ Before we talk about cracking the interviews, should you build 4 things, in this
     - [Monster](http://www.monster.com/)
     - [Angel List](https://angel.co/)
     - [Glassdoor](https://www.glassdoor.com/index.htm)
+
 ### Preparing for the interview
 
 **Computer science topics to prepare**
