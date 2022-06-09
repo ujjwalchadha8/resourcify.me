@@ -1,6 +1,6 @@
 # Understanding the concept of ArrayList :
 
-> Authors : Divyansh Pratap Singh ([twitter](https://twitter.com/))
+> Authors : Divyansh Pratap Singh ([twitter](https://mobile.twitter.com/dev_pratap3250/))
 
 # Array List vs Array :
 
