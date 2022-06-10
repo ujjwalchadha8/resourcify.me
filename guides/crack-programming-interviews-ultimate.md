@@ -7,13 +7,19 @@ A road map and compilation of high quality FREE resources to help you crack top 
 ### Getting an interview
 Before we talk about cracking the interviews, should you build 4 things, in this order:
 1. Projects
+   - [13 Coding Projects and Programming Ideas for Beginners 📃](https://www.springboard.com/blog/software-engineering/coding-project-ideas/)
+   - [42 Projects to Practice Programming Skills 📃](https://itnext.io/42-projects-to-practice-programming-skills-6f5acc10fec0)
    - [How to make great projects that outshine your resume and impress a tech interviewer, a thread 🕊️](https://twitter.com/ujjwalscript/status/1516646732859203585?s=20&t=1lIpSKwFipm-xm53Y0UtbA)
    - [Full stack project ideas 📃](https://www.crampete.com/blogs/full-stack-development-projects)
 2. Resume
+   - [How To Write an Entry-Level Programmer Resume 📃](https://www.indeed.com/career-advice/resumes-cover-letters/entry-level-programmer-resume)
+   - [Write an Incredible Resume: 5 Golden Rules 📹](https://www.youtube.com/watch?v=Tt08KmFfIYQ)
    - [How your resume should look like 🕊️](https://twitter.com/ujjwalscript/status/1532174600775225345?s=20&t=1lIpSKwFipm-xm53Y0UtbA)
    - [5 resume mistakes you can avoid to maximize your job opportunities! 🕊️](https://twitter.com/ujjwalscript/status/1521305874181984261?s=20&t=1lIpSKwFipm-xm53Y0UtbA)
 3. Network
    - Use your in person and online network to understand the job market, get referred or even get a direct offer.
+   - [7 Networking Tips for Getting a Job 📃](https://www.indeed.com/career-advice/finding-a-job/how-to-network-for-a-job)
+   - [The Software Developer’s Guide to Networking 📃](https://simpleprogrammer.com/software-developers-networking/)
    - Social media platforms:
      - [Linkedin](https://www.linkedin.com/) 
      - [Twitter](https://twitter.com/)
@@ -21,18 +27,26 @@ Before we talk about cracking the interviews, should you build 4 things, in this
      - [Blind](teamblind.com)
      - [Fish Bowl App](https://www.fishbowlapp.com/)
 4. Job applications
-    - [LinkedIn Jobs](https://www.linkedin.com/jobs)
-    - [Indeed jobs](https://www.indeed.com/jobs)
-    - [Monster](http://www.monster.com/)
-    - [Angel List](https://angel.co/)
-    - [Glassdoor](https://www.glassdoor.com/index.htm)
+   - [4 Best Ways to Apply for Software Engineer Jobs by CS Dojo 📹](https://www.youtube.com/watch?v=4xFnW9O637g)
+   - Portals:
+      - [LinkedIn Jobs](https://www.linkedin.com/jobs)
+      - [Indeed jobs](https://www.indeed.com/jobs)
+      - [Monster](http://www.monster.com/)
+      - [Angel List](https://angel.co/)
+      - [Glassdoor](https://www.glassdoor.com/index.htm)
 
 ### Preparing for the interview
 
 **Computer science topics to prepare**
 
 1. Data Structures and Algorithms
-   - Important data structures you should learn about:
+   - Video tutorials:
+     - [Data Structures and algorithms complete playlist by CS Dojo 📹](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+     - [Data Structures Easy to advance course 📹](https://youtu.be/RBSGKlAvoiM)
+     - [Algorithms and Data Structure Tutorial - Full course for beginners 📹](https://www.youtube.com/watch?v=8hly31xKli0)
+     - [Data Structures for Beginners Full Course Tutorial 📹](https://www.youtube.com/watch?v=YOfXMQnUlZY)
+     - [Data Structure and Algorithms in 15 minutes 📹](https://youtu.be/oz9cEqFynHU)
+   - Important data structures and related problems:
      - [Arrays](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=ghb#Arrays)
      - [Strings](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=ghb#Strings)
      - [Stacks & Queues](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=ghb#SnQ)
@@ -55,12 +69,6 @@ Before we talk about cracking the interviews, should you build 4 things, in this
      - [Backtracking](https://www.geeksforgeeks.org/backtracking-algorithms/)
      - [Dynamic Programming](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=ghb#DP)
      - [Greedy](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=ghb#Greedy)
-   - Video tutorials:
-     - [Data Structures and algorithms complete playlist by CS Dojo 📹](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
-     - [Data Structures Easy to advance course 📹](https://youtu.be/RBSGKlAvoiM)
-     - [Algorithms and Data Structure Tutorial - Full course for beginners 📹](https://www.youtube.com/watch?v=8hly31xKli0)
-     - [Data Structures for Beginners Full Course Tutorial 📹](https://www.youtube.com/watch?v=YOfXMQnUlZY)
-     - [Data Structure and Algorithms in 15 minutes 📹](https://youtu.be/oz9cEqFynHU)
    - Practice from here:
      - [Leetcode ⚒️](https://leetcode.com)
      - [CodeChef ⚒️](https://www.codechef.com/)
@@ -149,3 +157,5 @@ If you do not have professional experience, these can be based on your internshi
 6. [5 computer science topics to prepare yourself for Microsoft, Google, Facebook, Amazon and other top tier tech interviews 🕊️](https://twitter.com/ujjwalscript/status/1529273831231086592?s=20&t=1lIpSKwFipm-xm53Y0UtbA)
 7. [A real, big tech (FAANG) interview round goes something like this 🕊️](https://twitter.com/ujjwalscript/status/1530041801263837184?s=20&t=1lIpSKwFipm-xm53Y0UtbA)
 8. [Why knowing to solve data structures and algorithm problems gets you top notch programming jobs 🕊️](https://twitter.com/ujjwalscript/status/1530822711244509189?s=20&t=1lIpSKwFipm-xm53Y0UtbA)
+9. [How to Land a 100K/yr Tech Job - 10 Strategies 📹](https://www.youtube.com/watch?v=Xg9ihH15Uto)
+10. [How to ACTUALLY Get an Entry Level Programming Job 📹](https://www.youtube.com/watch?v=Otr3Up8wRn0)
