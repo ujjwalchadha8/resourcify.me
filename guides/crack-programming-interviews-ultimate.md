@@ -24,7 +24,7 @@ Before we talk about cracking the interviews, should you build 4 things, in this
      - [Linkedin](https://www.linkedin.com/) 
      - [Twitter](https://twitter.com/)
    - Anonymous networking platforms
-     - [Blind](teamblind.com)
+     - [Blind](https://www.teamblind.com/)
      - [Fish Bowl App](https://www.fishbowlapp.com/)
 4. Job applications
    - [4 Best Ways to Apply for Software Engineer Jobs by CS Dojo 📹](https://www.youtube.com/watch?v=4xFnW9O637g)
