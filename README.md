@@ -16,6 +16,7 @@ These guides will help you learn, explore and build technology faster and better
 - [Complete Web3 developer road map](/guides/complete-web3-developer-guide)
 - [Free road map and resources to crack programming interviews](/guides/crack-programming-interviews-ultimate.md)
 - [React Native guide for beginners](/guides/react-native-beginner-guide.md)
+- [Complete Java Fullstack Web development roadmap](/guides/java-fullstack-ultimate.md)
 - [Contributing to open source](/guides/open-source-contributions.md)
 
 ## How to contribute to this project
