@@ -8,7 +8,7 @@
 
 ➤ It has active maintainers.
 
-➤ Last communication is not of a million years ago. Ensure that the
+➤ Last communication is not of a million years ago.
 
 ➤ There is a proper contribution guideline. Some projects may have a seperate contribution guidelines file while others may have it within the README.
 

@@ -11,7 +11,7 @@
   3. Javascript
     - [JavaScript Tutorial for Beginners by Clever Programmer 📹](https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=9s)
 
-  [Click here for more resources📃](https://github.com/ujjwalchadha8/resourcify.me/blob/main/guides/web-frontend-ultimate.md)
+  [Click here for more resources📃](https://github.com/ujjwalchadha8/resourcify.me/edit/main/guides/web-frontend-ultimate.md)
   
   
 ### Understand the basics of web3, blockchain and NFTs

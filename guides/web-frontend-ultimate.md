@@ -67,7 +67,7 @@ Before you start building actual stuff, it's important to learn about the basics
 5. **Javascript**
    - Video Tutorials (Watch any one):
      1. [Complete javascript course by freecodecamp 📹](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=177s)
-     2. [JavaScript tutorial for beginners by Programming with Mosh 📹](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+     2. [JavaScript tutorial for beginners by Programming with Mosh 📹](https://www.youtube.com/watch?v=W6NZfCO5SIk&t=764s)
      3. [Crash course by Traversy Media 📹](https://www.youtube.com/watch?v=hdI2bqOjy3c)
    - Documentation:
       1. [Mozilla official docs 📃](https://developer.mozilla.org/en-US/docs/Web/javascript)
@@ -94,6 +94,7 @@ Before you start building actual stuff, it's important to learn about the basics
          1. [Beginner's Tutorial for React Javascript library 2022 by Freecodecamp 📹](https://www.youtube.com/watch?v=bMknfKXIFA8)
          2. [React Tutorial for beginners by Programming with Mosh 📹](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1s)
          3. [ReactJS Crash Course by Traversy Media 📹](https://www.youtube.com/watch?v=w7ejDZ8SWv8) 
+         4. [Learn React for free by Scrimba 📹](https://scrimba.com/learn/learnreact) 
        - Documentation:
          1. [React Official Docs 📃](https://reactjs.org/docs/getting-started.html) 
          2. [DevDocs 📃](https://devdocs.io/react/)
