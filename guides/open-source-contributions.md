@@ -58,7 +58,7 @@ Contributing to open source basically involves a few simple steps and there are 
 ![](assets/push.jpeg)
 > Use the push command as shown in the image to push changes to Github
 
-6. Now let's hop over to out Github repository (repository is just a fancy term for folders of directories) and if you did the things right, there should be *'compare & pull request'* button. Click on it to let maintainers know that they should review your changes (It basically summons the maintainers).
+6. Now let's hop over to our Github repository (repository is just a fancy term for folders of directories) and if you did the things right, there should be *'compare & pull request'* button. Click on it to let maintainers know that they should review your changes (It basically summons the maintainers).
 
 ![](assets/create-a-pull-request.png)
 > You should see this big green button
