@@ -1,0 +1,40 @@
+{
+    "guides": [
+        {
+            "name": "The ultimate guide to being a frontend developer",
+            "description": "A compilation of high quality free resources to learn, explore and develop web frontend",
+            "fileName": "web-frontend-ultimate",
+            "tags": ["Frontend", "Front end", "Web", "Web development", "HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "The ultimate guide to being a Java Fullstack Web developer",
+            "description": "A compilation of high quality free resources to learn, explore Java fullstack web development",
+            "fileName": "java-fullstack-ultimate",
+            "tags": ["Java", "Fullstack", "Full stack", "Development", "App Development", "Backend Development"]
+        }, 
+        {
+            "name": "A Complete Full Stack Web3 Developer Roadmap",
+            "description": "A complete guide to learning full stack web3 development",
+            "fileName": "complete-web3-developer-guide",
+            "tags": ["Web3", "Development", "Crypto", "Fullstack", "Full stack"]
+        }, 
+        {
+            "name": "Free road map and resources to crack programming interviews",
+            "description": "A road map and compilation of high quality FREE resources to help you crack top tier programming interviews",
+            "fileName": "java-fullstack-ultimate",
+            "tags": ["Interviews", "Programming", "Job", "Jobs", "Leetcode"]
+        },
+        {
+            "name": "Contributing to open source",
+            "description": "How to contribute to open source projects",
+            "fileName": "open-source-contributions",
+            "tags": ["Open Source"]
+        },
+        {
+            "name": "React Native beginners guide",
+            "description": "A beginner's guide to native development with React Native",
+            "fileName": "react-native-beginner-guide",
+            "tags": ["React Native", "Mobile", "Android", "App Development", "Frontend", "Development"]
+        }
+    ]
+}
