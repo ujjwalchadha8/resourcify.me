@@ -1,12 +1,22 @@
+!props {
+  "meta": {
+    "title": "Home",
+    "description": "The e=desc",
+    "image": "http://localhost/"
+  }
+};
+
 # Resourcify.me
 
 This project aims to compile high quality tech resources and road maps from around the internet and make them available under roof in an easy to consume manner. The resources will help you to learn and develop great tech
 
+<!-- EXCLUDE-FROM-WEB -->
 
 ## Open in Gitpod
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ujjwalchadha8/resourcify.me)
 
+<!-- END-EXCLUDE -->
 
 ## Guides
 
@@ -38,6 +48,3 @@ These guides will help you learn, explore and build technology faster and better
 ## Feedback
 
 - If you have any feedback (including issues or feature requests), feel free to leave it in the [issues](https://github.com/ujjwalchadha8/resourcify.me/issues) section by clicking the `new issue` button
-
-<!-- EXCLUDE-FROM-WEB -->
-<!-- END-EXCLUDE -->

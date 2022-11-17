@@ -6,6 +6,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Learn programming & development for free with a collection of high quality free resources, tutorials and road maps hand picked & written by experts.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <meta property="og:title" content="Resourcify.Me">
+  <meta property="twitter:title" content="Resourcify.Me">
+  <meta property="og:type" content="website">
+  <meta property="og:site" content="Resourcify.Me">
+  <meta property="og:url" content="https://resourcify.me/">
+  <meta property="og:description" content="Best resources from across the internet to learn programming and technology under one roof">
+  <meta property="twitter:description" content="Best resources from across the internet to learn programming and technology under one roof">
+  <meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/resourcifyme.appspot.com/o/public%2Fcover.jpg?alt=media&token=b26210df-24ec-440e-b180-7e1c392219a9" />
+	<meta name="twitter:image" content="https://firebasestorage.googleapis.com/v0/b/resourcifyme.appspot.com/o/public%2Fcover.jpg?alt=media&token=b26210df-24ec-440e-b180-7e1c392219a9" />
+
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" />
   <link rel="stylesheet" href="./index.css"/>
@@ -22,7 +33,8 @@
     window.$docsify = {
       name: '',
       repo: '',
-      loadSidebar: true,
+      loadSidebar: false,
+      hideSidebar: true,
       subMaxLevel: 3,
       coverpage: true,
       loadNavbar: true,
@@ -100,5 +112,7 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="plugins/docsify-plugin-metatags.js"></script>
 </body>
 </html>
