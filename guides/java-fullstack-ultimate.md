@@ -24,6 +24,7 @@ Here's the detailed roadmap you should learn, in order:
      2. [Core Java crash course by telusko in english 📹](https://www.youtube.com/watch?v=8cm1x4bC610)
      3. [Core Java crash course by apna college in hindi 📹](https://www.youtube.com/watch?v=UmnCZ7-9yDY)
      4. [Core Java crash course by anuj bhaiya in hindi 📹](https://www.youtube.com/watch?v=aQatrXw0njs)
+   
    - JDBC
      1. [JDBC complete playlist by telusko 📹](https://www.youtube.com/playlist?list=PLsyeobzWxl7rU7Jz3zDRpqB-EODzBbHOI)
    - SQL

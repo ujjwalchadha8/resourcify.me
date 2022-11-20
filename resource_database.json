@@ -1,0 +1,18 @@
+{
+    "version": "1.0",
+    "data": [
+        {
+            "type": "resource",
+            "parent": ["javascript"],
+            "value": {
+                "url": "",
+                "resourceType": ["official", "documentation"]
+            }
+        },
+        {
+            "type": "tag",
+            "name": "javascript",
+            "parent": "frontend-development"
+        }
+    ]
+}
