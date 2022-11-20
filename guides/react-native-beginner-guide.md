@@ -18,7 +18,7 @@
 
 ## Important links to brush up Prerequisites : 📌
 
-  🍀 [Javascript - crash course - Begineer to Advance](https://youtu.be/Qqx_wzMmFeA) : 8 hour Javascript complete tutorial by Clever Programmer from begineer to advance + projects
+  🍀 [Javascript - crash course - Beginner to Advance](https://youtu.be/Qqx_wzMmFeA) : 8 hour Javascript complete tutorial by Clever Programmer from beginner to advance + projects
 
   🍀 [Complete HtML - crash course](https://youtu.be/HcOc7P5BMi4) : Complete HTML tutorial by Apni Kaksha.
 

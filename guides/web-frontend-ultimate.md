@@ -15,12 +15,12 @@ Here's what you should learn, in order:
 
 1. __The basics of internet.__  
 Before you start building actual stuff, it's important to learn about the basics of internet.
-   1. {R : internet : vid}[How does the internet work 📹](https://www.youtube.com/watch?v=x3c1ih2NJEg)
-   2. {R : internet : vid}[What is HTTP 📹](https://youtu.be/4_-KdOLZWLs)
-   3. {R : internet : vid}[How browsers work 📹](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
-   4. {R : internet : vid}[What is a domain 📹](https://youtu.be/Y4cRx19nhJk)
-   5. {R : internet : vid}[What is hosting 📹](https://youtu.be/Y4cRx19nhJk)
-   6. {R : internet : vid}[How DNS works 📹](https://youtu.be/mpQZVYPuDGU)
+   1. [How does the internet work 📹](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+   2. [What is HTTP 📹](https://youtu.be/4_-KdOLZWLs)
+   3. [How browsers work 📹](https://www.youtube.com/watch?v=0IsQqJ7pwhw)
+   4. [What is a domain 📹](https://youtu.be/Y4cRx19nhJk)
+   5. [What is hosting 📹](https://youtu.be/Y4cRx19nhJk)
+   6. [How DNS works 📹](https://youtu.be/mpQZVYPuDGU)
 1. **HTML**  
    Hyper Text Markup Language. This is the skeleton of a website and defines a basic structure.
    - Video tutorials (Watch any one):
