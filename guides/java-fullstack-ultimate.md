@@ -9,7 +9,7 @@ Here's the detailed roadmap you should learn, in order:
 1. __Frontend__  
    When working with Java applications you can use any modern Javascript framework as your frontend.
    - Frontend guide
-     1. [Ultimate Frontend guide by resourcify 📃](https://resourcify.me/#/guides/web-frontend-ultimate?id=the-ultimate-guide-to-being-a-frontend-developer)
+     1. [Ultimate Frontend guide by resourcify 📃](https://resourcify.me/guides/web-frontend-ultimate)
    
 2. __Backend__  
    Detailed step by step topics needs to be covered for Java backend in given order.
