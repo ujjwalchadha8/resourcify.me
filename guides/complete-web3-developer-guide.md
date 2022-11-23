@@ -1,7 +1,3 @@
-# A Complete Full Stack Web3 Developer roadmap
-
-> Author: Harendra Shakya ([Twitter](https://twitter.com/harendrashakya_))
-
 ### Before starting in web 3, you need to learn web 2 technologies
 
   1. HTML

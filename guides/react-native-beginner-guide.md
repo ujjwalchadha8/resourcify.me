@@ -1,9 +1,3 @@
-
-# How to get started with native app development using React-Native
-
-> Authors : Divyansh Pratap Singh ([Twitter](https://mobile.twitter.com/dev_pratap3250))
-
-
 ## React Native Prerequisites : 📌
 
   ⭐ one should be familiar with basic programming concepts like functions , arrays etc.

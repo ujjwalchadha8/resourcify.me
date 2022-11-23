@@ -1,9 +1,3 @@
-# Free road map and resources to crack programming interviews
-
-A road map and compilation of high quality FREE resources to help you crack top tier programming interviews
-
-> Authors: Ujjwal ([Twitter](https://twitter.com/ujjwalscript))
-
 ### Getting an interview
 Before we talk about cracking the interviews, should you build 4 things, in this order:
 1. Projects

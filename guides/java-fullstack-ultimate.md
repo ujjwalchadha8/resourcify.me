@@ -1,9 +1,3 @@
-# The ultimate guide to being a Java Fullstack Web developer
-
-A compilation of high quality free resources to learn, explore Java fullstack web development  
-
-> Author: Vikas ([Twitter](https://twitter.com/vikasrajputin))
-
 Java Fullstack Web Development can be divided into two broad categories:
 
 1. Frontend (HTML, CSS & Javascript)

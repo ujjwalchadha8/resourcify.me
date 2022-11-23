@@ -1,9 +1,3 @@
-# The ultimate guide to being a frontend developer
-
-A compilation of high quality free resources to learn, explore and develop web frontend  
-
-> Author: Ujjwal ([Twitter](https://twitter.com/ujjwalscript))
-
 Frontend web development includes building the client side code as well as the visuals of the app. In general, a frontend app has 3 parts:
 
 1. HTML: The structure of the UI
