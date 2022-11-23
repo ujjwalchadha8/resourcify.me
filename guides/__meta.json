@@ -9,12 +9,28 @@
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/resourcifyme.appspot.com/o/public%2Ffrontend-web-development.webp?alt=media&token=c5f46740-391c-4d9f-bcb7-8c54bbad3fe7"
         },
         {
+            "name": "NodeJS Backend Development: Complete Beginner's Guide",
+            "description": "Roadmap, resources and tutorials to learn backend development with NodeJS.",
+            "author": ["Ujjwal Chadha", "https://twitter.com/ujjwalscript", "https://www.linkedin.com/in/ujjwalchadha8/"],
+            "fileName": "nodejs-backend-development",
+            "tags": ["Node", "NodeJS", "Javascript", "Backend Development", "Development"],
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/resourcifyme.appspot.com/o/public%2Fnodejs.jpg?alt=media&token=2a533c2c-9c24-4f32-937f-3dfbd1589176"
+        },
+        {
             "name": "Java Fullstack Web Development: Complete Beginner's guide",
             "description": "Best free tutorials to learn Java and web development",
             "author": ["Vikas Rajput", "https://twitter.com/vikasrajputin"],
             "fileName": "java-fullstack-ultimate",
             "tags": ["Java", "Fullstack", "Full stack", "Development", "App Development", "Backend Development"],
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/resourcifyme.appspot.com/o/public%2Fjava-development.jpg?alt=media&token=16552295-ec97-4c67-ae0a-2f6254dd0193"
+        },
+        {
+            "name": "SQL Database Development: Complete Guide",
+            "description": "Roadmap and tutorials to learn SQL and database development",
+            "author": ["Ujjwal Chadha", "https://twitter.com/ujjwalscript", "https://www.linkedin.com/in/ujjwalchadha8/"],
+            "fileName": "sql-database-complete",
+            "tags": ["SQL", "Database", "Development", "Backend Development"],
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/resourcifyme.appspot.com/o/public%2Fdatacenter.jpg?alt=media&token=50f37e67-5f86-4743-adb3-8e1cff396ac6"
         }, 
         {
             "name": "Web3 Full Stack Blockchain Development: Complete Roadmap",
