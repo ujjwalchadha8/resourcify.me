@@ -79,3 +79,6 @@ Official docs for reference:
 2. [Dev Docs 📃](https://devdocs.io/express/)
 
 
+### SQL
+
+[SQL Tutorials](guide://sql-database-development)

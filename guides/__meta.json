@@ -1,6 +1,14 @@
 {
     "guides": [
         {
+            "name": "Data Science & Machine Learning: A Complete Guide",
+            "description": "Complete roadmap and collection of best resources and tutorials to learn Data Science, Machine Learning and Deep Learning",
+            "author": ["Ujjwal Chadha", "https://twitter.com/ujjwalscript", "https://www.linkedin.com/in/ujjwalchadha8/"],
+            "fileName": "data-science-ultimate",
+            "tags": ["Data Science", "Machine Learning", "Artificial Intelligence", "AI", "ML", "Data Analytics"],
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/resourcifyme.appspot.com/o/public%2FAI1.jpg?alt=media&token=b96eaa0b-d51a-4086-82e5-b5c180140c07"
+        },
+        {
             "name": "Frontend Web Development: Complete Beginner's Guide",
             "description": "Best resources and tutorials to learn html, css, javascript, react and more",
             "author": ["Ujjwal Chadha", "https://twitter.com/ujjwalscript", "https://www.linkedin.com/in/ujjwalchadha8/"],
